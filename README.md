@@ -12,3 +12,6 @@ The project includes three classes:
 3. Student: Also inherits from BasePerson and adds a property StudentNo. It includes two constructors: one for initializing all properties and a default constructor. The DisplayStudent method displays the student's information including student number.
 
 ![image](https://github.com/user-attachments/assets/45acca18-d1eb-4a3c-9dc0-9712226260a9)
+
+### Requirements
+.NET Core 3.1 or later
