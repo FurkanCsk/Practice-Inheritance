@@ -1,4 +1,4 @@
-#Practice-Inheritance
+Practice-Inheritance
 
 This project demonstrates the use of inheritance in C# with a simple example involving BasePerson, Teacher, and Student classes.
 
